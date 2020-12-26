@@ -1,0 +1,16 @@
+C:\Development\SourceCode\MLog\MLogTest\bin\Debug\netcoreapp3.1\MLogTest.exe
+C:\Development\SourceCode\MLog\MLogTest\bin\Debug\netcoreapp3.1\MLogTest.deps.json
+C:\Development\SourceCode\MLog\MLogTest\bin\Debug\netcoreapp3.1\MLogTest.runtimeconfig.json
+C:\Development\SourceCode\MLog\MLogTest\bin\Debug\netcoreapp3.1\MLogTest.runtimeconfig.dev.json
+C:\Development\SourceCode\MLog\MLogTest\bin\Debug\netcoreapp3.1\MLogTest.dll
+C:\Development\SourceCode\MLog\MLogTest\bin\Debug\netcoreapp3.1\MLogTest.pdb
+C:\Development\SourceCode\MLog\MLogTest\obj\Debug\netcoreapp3.1\MLogTest.csprojAssemblyReference.cache
+C:\Development\SourceCode\MLog\MLogTest\obj\Debug\netcoreapp3.1\MLogTest.csproj.CoreCompileInputs.cache
+C:\Development\SourceCode\MLog\MLogTest\obj\Debug\netcoreapp3.1\MLogTest.AssemblyInfoInputs.cache
+C:\Development\SourceCode\MLog\MLogTest\obj\Debug\netcoreapp3.1\MLogTest.AssemblyInfo.cs
+C:\Development\SourceCode\MLog\MLogTest\obj\Debug\netcoreapp3.1\MLogTest.dll
+C:\Development\SourceCode\MLog\MLogTest\obj\Debug\netcoreapp3.1\MLogTest.pdb
+C:\Development\SourceCode\MLog\MLogTest\obj\Debug\netcoreapp3.1\MLogTest.genruntimeconfig.cache
+C:\Development\SourceCode\MLog\MLogTest\bin\Debug\netcoreapp3.1\MLog.dll
+C:\Development\SourceCode\MLog\MLogTest\bin\Debug\netcoreapp3.1\MLog.pdb
+C:\Development\SourceCode\MLog\MLogTest\obj\Debug\netcoreapp3.1\MLogTest.csproj.CopyComplete

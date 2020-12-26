@@ -1,0 +1,9 @@
+C:\Development\SourceCode\MLog\MLog\bin\Debug\netstandard2.0\MLog.deps.json
+C:\Development\SourceCode\MLog\MLog\bin\Debug\netstandard2.0\MLog.dll
+C:\Development\SourceCode\MLog\MLog\bin\Debug\netstandard2.0\MLog.pdb
+C:\Development\SourceCode\MLog\MLog\obj\Debug\netstandard2.0\MLog.csprojAssemblyReference.cache
+C:\Development\SourceCode\MLog\MLog\obj\Debug\netstandard2.0\MLog.csproj.CoreCompileInputs.cache
+C:\Development\SourceCode\MLog\MLog\obj\Debug\netstandard2.0\MLog.AssemblyInfoInputs.cache
+C:\Development\SourceCode\MLog\MLog\obj\Debug\netstandard2.0\MLog.AssemblyInfo.cs
+C:\Development\SourceCode\MLog\MLog\obj\Debug\netstandard2.0\MLog.dll
+C:\Development\SourceCode\MLog\MLog\obj\Debug\netstandard2.0\MLog.pdb

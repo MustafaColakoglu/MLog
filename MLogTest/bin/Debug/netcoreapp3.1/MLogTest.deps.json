@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MLogTest/1.0.0": {
+        "dependencies": {
+          "MLog": "1.0.0"
+        },
+        "runtime": {
+          "MLogTest.dll": {}
+        }
+      },
+      "MLog/1.0.0": {
+        "runtime": {
+          "MLog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLogTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MLog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
