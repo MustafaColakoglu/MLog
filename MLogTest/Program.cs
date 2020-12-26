@@ -11,6 +11,10 @@ namespace MLogTest
             MLog.Concrete.MLog mLog = new MLog.Concrete.MLog();
 
             mLog.Info("test");
+            mLog.Info("test");
+            mLog.Info("test"); 
+            mLog.Info("test"); 
+            mLog.Info("test");
 
             Console.WriteLine("Hello World!");
         }
