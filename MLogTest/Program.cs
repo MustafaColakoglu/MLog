@@ -8,13 +8,14 @@ namespace MLogTest
     {
         static void Main(string[] args)
         {
-            MLog.Concrete.MLog mLog = new MLog.Concrete.MLog();
+            IMLogger mLogger = new MLogger();
 
-            mLog.Info("test");
-            mLog.Info("test");
-            mLog.Info("test"); 
-            mLog.Info("test"); 
-            mLog.Info("test");
+
+            mLogger.Info("test");
+            mLogger.Info("test");
+            mLogger.Info("test");
+            mLogger.Info("test");
+            mLogger.Info("test");
 
             Console.WriteLine("Hello World!");
         }

@@ -1,7 +1,7 @@
 Simple logger for simple projects
 
 ```sh
-MLog.Concrete.MLog mLog = new MLog.Concrete.MLog();
+MLogger mLogger = new MLogger();
 
-mLog.Info("Simple Log!");
+mLogger.Info("Simple Log!");
 ```

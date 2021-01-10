@@ -4,9 +4,9 @@ using System.Text;
 
 namespace MLog.Abstract
 {
-    public interface IMLog
+    public interface IMLogger
     {
         void Info(string message);
-        
+        void Info(Exception ex);
     }
 }

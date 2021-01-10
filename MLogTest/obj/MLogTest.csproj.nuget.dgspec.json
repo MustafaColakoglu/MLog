@@ -66,10 +66,10 @@
       }
     },
     "C:\\Development\\SourceCode\\MLog\\MLog\\MLog.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\Development\\SourceCode\\MLog\\MLog\\MLog.csproj",
-        "projectName": "MLog",
+        "projectName": "MW.Package.MLog",
         "projectPath": "C:\\Development\\SourceCode\\MLog\\MLog\\MLog.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
         "outputPath": "C:\\Development\\SourceCode\\MLog\\MLog\\obj\\",
