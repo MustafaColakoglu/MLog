@@ -8,7 +8,7 @@ namespace MLogTest
     {
         static void Main(string[] args)
         {
-            IMLogger mLogger = new MLogger();
+            MLogger mLogger = new MLogger();
 
 
             mLogger.Info("test");
