@@ -2,8 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>1.0.1.0</Version>
+    <Version>1.0.1.1</Version>
     <PackageId>MW.Package.MLog</PackageId>
+    <Authors>Mustafa Çolakoğlu</Authors>
+    <PackageProjectUrl>https://github.com/MustafaColakoglu/MLog</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MustafaColakoglu/MLog</RepositoryUrl>
+    <Description>Simple logger for simple projects</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Logging,Logger,Logs,MLog</PackageTags>
   </PropertyGroup>
 
 </Project>

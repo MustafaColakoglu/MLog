@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Development\\SourceCode\\MLog\\MLog\\MLog.csproj": {
-      "version": "1.0.1",
+      "version": "1.0.1.1",
       "restore": {
         "projectUniqueName": "C:\\Development\\SourceCode\\MLog\\MLog\\MLog.csproj",
         "projectName": "MW.Package.MLog",

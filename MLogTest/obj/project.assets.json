@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "MW.Package.MLog/1.0.1": {
+      "MW.Package.MLog/1.0.1.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "MW.Package.MLog/1.0.1": {
+    "MW.Package.MLog/1.0.1.1": {
       "type": "project",
       "path": "../MLog/MLog.csproj",
       "msbuildProject": "../MLog/MLog.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "MW.Package.MLog >= 1.0.1"
+      "MW.Package.MLog >= 1.0.1.1"
     ]
   },
   "packageFolders": {
